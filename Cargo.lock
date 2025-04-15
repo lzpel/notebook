@@ -356,9 +356,9 @@ version = "0.1.0"
 dependencies = [
  "chrono",
  "console_error_panic_hook",
+ "pdf-writer",
  "resvg",
  "svg2pdf",
- "tiny-skia",
  "usvg",
  "wasm-bindgen",
 ]
